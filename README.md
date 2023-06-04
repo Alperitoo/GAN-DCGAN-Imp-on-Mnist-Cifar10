@@ -113,13 +113,12 @@ Our model achieves the following performance on [CIFAR-10](#cifar10)
 |------------------- |---------------- |--------------- |
 
 
-#References
-https://github.com/eriklindernoren/Keras-GAN
-https://nealjean.com/ml/frechet-inception-distance/
-https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
-https://github.com/soumith/ganhacks
-https://github.com/mseitzer/pytorch-fid
-
-DCGAN original [paper](https://arxiv.org/abs/1511.06434)
-GAN original [paper](https://arxiv.org/abs/1406.2661)
+## References
+* https://github.com/eriklindernoren/Keras-GAN
+* https://nealjean.com/ml/frechet-inception-distance/
+* https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+* https://github.com/soumith/ganhacks
+* https://github.com/mseitzer/pytorch-fid
+* DCGAN original [paper](https://arxiv.org/abs/1511.06434)
+* GAN original [paper](https://arxiv.org/abs/1406.2661)
 
