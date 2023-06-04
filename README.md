@@ -14,7 +14,7 @@ Folder structure:
 ```console
 GAN-DCGAN-Imp-on-Mnist-Cifar10
 ├── CIFAR10
-|   |__DCGAN-
+|   |__DCGAN
 |   |__GAN
 ├── MNIST
     |__DCGAN
