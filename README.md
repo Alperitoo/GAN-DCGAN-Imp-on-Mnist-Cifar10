@@ -1,11 +1,6 @@
-<p align="center">
-    <img src="assets/keras_gan.png" width="480"\>
-</p>
 
+# Gan and DcGan on Mnist and Cifar10
 **This repository has been prepared for GAN and DCGAN implementation on [CIFAR10](#cifar10) and [MNIST](#mnist) datasets with using [Pytorch](https://pytorch.org/) and [TensorFlow-Keras](https://www.tensorflow.org/?hl=tr) **
-
-# My Paper Title
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
 
 ## Requirements
 
@@ -116,4 +111,15 @@ Our model achieves the following performance on [CIFAR-10](#cifar10)
 |------------------- |---------------- |--------------- |
 | DCGAN              |     126         |    0.985       |
 |------------------- |---------------- |--------------- |
+
+
+#References
+https://github.com/eriklindernoren/Keras-GAN
+https://nealjean.com/ml/frechet-inception-distance/
+https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+https://github.com/soumith/ganhacks
+https://github.com/mseitzer/pytorch-fid
+
+DCGAN original [paper](https://arxiv.org/abs/1511.06434)
+GAN original [paper](https://arxiv.org/abs/1406.2661)
 
