@@ -89,8 +89,7 @@ The CIFAR-10 dataset is a popular dataset used for image classification tasks in
 
 ## Installation
     $ git clone https://github.com/Alperitoo/DLGITHUB
-    $ cd Keras-GAN/
-    $ sudo pip3 install -r requirements.txt
+
 
 ## Results
 
