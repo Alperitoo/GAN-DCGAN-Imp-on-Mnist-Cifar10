@@ -88,7 +88,7 @@ The CIFAR-10 dataset is a popular dataset used for image classification tasks in
 
 
 ## Installation
-    $ git clone https://github.com/Alperitoo/https://github.com/Alperitoo/GAN-DCGAN-Imp-on-Mnist-Cifar10
+    $ git clone https://github.com/Alperitoo/GAN-DCGAN-Imp-on-Mnist-Cifar10
 
 
 ## Results
